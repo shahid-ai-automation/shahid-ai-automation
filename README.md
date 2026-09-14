@@ -1,74 +1,106 @@
-# Hi, I'm Shahid Abdullah 👋
+# Shahid Abdullah
 
-### AI Automation Engineer | AI Voice Agents | n8n | CRM Automation
+### Automation Engineer | Voice Systems | n8n | CRM & Workflow Automation
 
-I build practical, production-focused AI automation systems that help businesses automate customer communication, workflows, and repetitive operations.
+I build automation systems that connect customer interactions, business data, and operational workflows.
 
-My focus is on turning AI conversations and business processes into reliable end-to-end workflows — not just building isolated AI demos.
+My work is mainly focused on **voice-based customer handling, lead operations, CRM workflows, and process automation** — taking a business process that normally requires manual work and turning it into a defined workflow with clear inputs, decisions, and outputs.
 
-## 🚀 What I Build
+## What I Work On
 
-- 🤖 AI Voice Agents & Voice Receptionists
-- ⚙️ n8n Workflow Automation
-- 🔗 API & Third-Party Integrations
-- 📊 CRM Automation
-- 📧 Email & Lead Automation
-- 🧠 LLM-Powered Business Workflows
-- 📅 Appointment & Calendar Automation
+- Voice receptionists and appointment workflows
+- n8n workflow design and automation
+- CRM processes and lead management
+- Lead research, qualification, enrichment, and scoring
+- Google Sheets and business-data workflows
+- API and third-party service integrations
+- Email and follow-up automation
 
-## 🛠️ Tech Stack
+## Selected Work
 
-**AI & Voice**
-- Retell AI
-- LLMs
-- AI Agents
+### 01 — Dental Clinic Voice Receptionist
 
-**Automation**
-- n8n
-- Webhooks
-- REST APIs
+A voice receptionist built around a dental clinic appointment process.
 
-**Business Integrations**
-- HubSpot
-- Google Calendar
-- Google Sheets
-- Email Automation
+The system handles the conversation with the caller, checks availability, books the appointment, and continues the workflow across the connected business systems.
 
-## ⭐ Featured Project
-
-### 🦷 AI Voice Receptionist — Dental Clinic
-
-An AI voice receptionist designed to handle dental clinic appointment calls and automate the process after the conversation.
-
-**Workflow:**
+**Workflow**
 
 `Call → Availability Check → Appointment Booking → Google Calendar → Google Sheets → HubSpot → Email`
 
-**Built with:**
-- Retell AI
-- n8n
-- Google Calendar
-- Google Sheets
-- HubSpot
-- Email automation
+**Stack**
 
-The goal was not simply to create a conversational AI agent, but to turn a normal phone conversation into a **complete automated business workflow**.
+`Retell AI · n8n · Google Calendar · Google Sheets · HubSpot`
 
-🎥 **[Watch the Dental Clinic Demo on LinkedIn](https://www.linkedin.com/posts/shahid-ai-automation_aiautomation-voiceai-n8n-activity-7493581816474398721-MmT8)**
+The key part of this project is the workflow after the call. The voice interaction is connected to the actual appointment and business-data process instead of ending as a standalone conversation.
 
-## 📌 Current Focus
+[View the project demo on LinkedIn](https://www.linkedin.com/posts/shahid-ai-automation_aiautomation-voiceai-n8n-activity-7493581816474398721-MmT8)
 
-I'm focused on building reliable AI automation systems that handle real business processes end-to-end, especially:
+---
 
-- AI Voice Receptionists
-- Customer Communication Automation
-- CRM & Business Process Automation
-- Email Automation
-- Lead Generation Workflows
-- AI Agent Workflows
+### 02 — Lead Generation & HubSpot Automation
 
-## 🤝 Let's Connect
+An end-to-end lead workflow covering prospect discovery, qualification, enrichment, CRM ingestion, and score-based segmentation.
 
-I'm open to AI automation projects, AI voice agents, workflow automation, and business process automation opportunities.
+The first stage produces structured lead records with contact details, business email information, social profiles, qualification signals, and a lead score. Those records are then passed into HubSpot, where the score is used to separate leads into different follow-up paths.
 
-📫 **GitHub:** [shahid-ai-automation](https://github.com/shahid-ai-automation)
+**Workflow**
+
+`Prospect Discovery → Qualification → Enrichment → Google Sheets → HubSpot → Lead Scoring → Segmentation → Targeted Outreach`
+
+**Key areas**
+
+- Lead scraping and qualification
+- Email and social-profile enrichment
+- Structured Google Sheets data
+- HubSpot contact creation and organization
+- Score-based lead segmentation
+- Different handling for higher- and lower-priority leads
+
+[View the lead generation workflow](./lead-generation-hubspot-automation/README.md) · [View the LinkedIn project](https://www.linkedin.com/posts/shahid-ai-automation_i-built-a-lead-scraping-and-scoring-workflow-activity-7494056832295141376-YGrN)
+
+[View the HubSpot segmentation workflow on LinkedIn](https://www.linkedin.com/posts/shahid-ai-automation_from-lead-generation-to-targeted-outreach-activity-7495459752353742850-G3db)
+
+## Tools I Use
+
+**Automation**
+
+`n8n · Webhooks · REST APIs`
+
+**Voice & AI**
+
+`Retell AI · LLM-based workflows`
+
+**CRM & Business Systems**
+
+`HubSpot · Google Calendar · Google Sheets · Email`
+
+## How I Approach Automation
+
+I focus on the process first and the tool second.
+
+A useful automation should make it clear:
+
+1. What starts the workflow
+2. What information is collected
+3. What decisions are made
+4. Where the data goes
+5. What action happens next
+
+That approach keeps workflows understandable and makes individual steps easier to change without rebuilding the whole process.
+
+## Current Focus
+
+I'm continuing to build and document practical automation projects around:
+
+- Voice reception and customer communication
+- Lead generation and qualification
+- CRM and sales workflows
+- Email operations
+- Business process automation
+
+## Contact
+
+**LinkedIn:** [Shahid Abdullah](https://www.linkedin.com/in/shahid-ai-automation/)
+
+**GitHub:** [shahid-ai-automation](https://github.com/shahid-ai-automation)
