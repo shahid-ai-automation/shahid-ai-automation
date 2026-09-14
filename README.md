@@ -54,7 +54,7 @@ An AI voice receptionist designed to handle dental clinic appointment calls and 
 
 The goal was not simply to create a conversational AI agent, but to turn a normal phone conversation into a **complete automated business workflow**.
 
-🎥 **Demo:** A live demo is available on my LinkedIn. The project demo link will be added here.
+🎥 **[Watch the Dental Clinic Demo on LinkedIn](https://www.linkedin.com/posts/shahid-ai-automation_aiautomation-voiceai-n8n-activity-7493581816474398721-MmT8)**
 
 ## 📌 Current Focus
 
